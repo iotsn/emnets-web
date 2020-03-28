@@ -1,0 +1,84 @@
+---
+# Display name
+name: 董玮
+
+# Username (this should match the folder name)
+authors:
+- wei-dong
+
+weight: 1
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
+role: 教授
+
+# Organizations/Affiliations
+organizations:
+- name: 计算机科学与技术学院
+  url: "http://www.cs.zju.edu.cn"
+- name: 浙江大学
+  url: "http://www.zju.edu.cn"
+
+# Short bio (displayed in user profile at end of posts)
+bio: 董玮，浙江大学计算机学院教授，博士生导师
+
+interests:
+- IoT systems and networks
+- Edge computing
+- Low-power wireless networking
+
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto: dongw@zju.edu.cn"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+## hack to display the external_link
+email: "http://dongw.emnets.org"
+
+external_link: "http://dongw.emnets.org"
+
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- 教师
+
+---
+
+董玮，浙江大学计算机学院教授，博士生导师，浙江大学求是青年学者，IEEE会员，ACM会员，CCF高级会员，CCF互联网专委、物联网专委委员，浙江省计算机学会嵌入式与物联网技术专委秘书长。2001年-2005年在浙江大学计算机学院学习，获工学学士学位。2002年-2005年进入浙江大学竺可桢学院工高班学习。2005年-2010年在浙江大学计算机学院学习，获工学博士学位。2009年-2010年在香港科技大学计算机系做访问研究。2011年在香港科技大学计算机系，从事博士后工作。2012年2月加入浙江大学计算机学院软件研究所，2012年12月被评为副教授，2016年12月被评为教授。承担国家973基础研究计划、国家科技支撑课题、国家自然科学基金、教育部博士点基金等国家和省部级项目10多项。在ACM MobiCom, SIGMETRICS, UbiComp, IEEE INFOCOM, ICNP等著名国际会议以及IEEE/ACM Trans on Networking, IEEE Trans on Mobile Computing, IEEE Trans on Computers等著名国际期刊上发表论文100余篇，其中CCF A类期刊/会议论文40余篇，IEEE/ACM Trans长文30余篇。获MSN'16, SIGCOMM-China'17最佳论文奖，ACM MobiCom'17最佳视频展示奖。出版著作1部，授权发明专利10余项。多次担任国际知名学术会议组委会成员、程序委员会委员。获2011年度浙江省优秀博士论文、2013年度全国优秀博士论文提名、2014年度浙江省科技进步一等奖、2015年CCF-Intel青年学者提升计划、2016年CCF-腾讯犀牛鸟科研基金、2017年浙江省151人才工程、2019年浙江省自然科学基金杰出青年基金等奖励或荣誉。
+
+

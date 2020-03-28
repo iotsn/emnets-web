@@ -1,0 +1,35 @@
+---
+title: LinkLab
+summary: AIoT远程开发实验平台
+tags:
+- IoT system
+date: "2020-03-21"
+
+weight: 1
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+---
+
+物联网设备异构性加剧，物联网应用开发仍然十分困难。实验室与阿里云IoT事业部联合发起了[LinkLab物联网远程开发平台](http://www.emnets.org/linklab)。目前已在人工智能小镇部署了150余种物联网设备，用户只需通过浏览器(WebIDE)即可进行云-边-端一体的物联网应用开发。LinkLab需要解决可靠设备管理、多环境高效在线编译、theia WebIDE高效定制、大规模虚拟场景仿真等关键问题。
