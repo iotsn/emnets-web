@@ -67,7 +67,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 ## hack to display the external_link
-email: "http://dongw.emnets.org"
+email: "http://home.emnets.org:8888/dongw/index.html"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

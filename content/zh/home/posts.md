@@ -74,20 +74,20 @@ subtitle = ""
 
 <div class="gallery">
   <a href="https://mp.weixin.qq.com/s/hVx2nsZ2-w4zUXtQh0bZRg">
-   <img src="http://inhome.emnets.org/dongw/newimg/book.png" title="实验室出版新书"></a>
+   <img src="/dongw/newimg/book.png" title="实验室出版新书"></a>
   <a href="http://www.emnets.org/linklab">
-   <img src="http://inhome.emnets.org/dongw/newimg/azft.jpg" title="LinkLab获AZFT模式创新奖"></a>
+   <img src="/dongw/newimg/azft.jpg" title="LinkLab获AZFT模式创新奖"></a>
   <a href="http://www.emnets.org">
-   <img src="http://inhome.emnets.org/dongw/newimg/emnets.jpg" title="实验室合影"></a>
+   <img src="/dongw/newimg/emnets.jpg" title="实验室合影"></a>
   <a href="https://mp.weixin.qq.com/s/rZmVcrH8MNbapvJQYit28w">
-   <img src="http://inhome.emnets.org/dongw/newimg/IoTconf.jpg" title="物联网前沿技术论坛成功举办"></a> 
+   <img src="/dongw/newimg/IoTconf.jpg" title="物联网前沿技术论坛成功举办"></a> 
   <a href="https://mp.weixin.qq.com/s/itd7xPKFI2XSsJ0QqPysrg">
-   <img src="http://inhome.emnets.org/dongw/newimg/sensys.jpg" title="实验室参加SenSys 2018"></a>    
+   <img src="/dongw/newimg/sensys.jpg" title="实验室参加SenSys 2018"></a>    
   <a href="http://www.tinylink.cn/">
-   <img src="http://inhome.emnets.org/dongw/newimg/yunqi.jpg" title="参加云栖大会并作报告"></a>
+   <img src="/dongw/newimg/yunqi.jpg" title="参加云栖大会并作报告"></a>
   <a href="http://www.tinylink.cn/">
-   <img src="http://inhome.emnets.org/dongw/newimg/mobicom17.jpg" title="实验室参加ACM MobiCom 2017"></a>
+   <img src="/dongw/newimg/mobicom17.jpg" title="实验室参加ACM MobiCom 2017"></a>
   <a href="">
-   <img src="http://inhome.emnets.org/dongw/newimg/turc17.jpg" title="与互联网之父Vint Cerf合影"></a>
+   <img src="/dongw/newimg/turc17.jpg" title="与互联网之父Vint Cerf合影"></a>
 </div>
 
