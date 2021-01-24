@@ -76,4 +76,4 @@ email: ""
 
 浙大物联网系统与网络实验室成立于2006年9月，指导老师为[董玮教授](http://home.emnets.org:8888/dongw/index.html)和[高艺副教授](https://person.zju.edu.cn/gaoyi)。主要研究方向包括云-边-一体的物联网系统、低功耗无线网络、边缘计算、智能传感和移动计算等。
 
-课题组承担多项国家和省部级项目。在ACM MobiCom, SIGMETRICS, UbiComp, IEEE INFOCOM, ICNP等著名国际会议以及IEEE/ACM Trans on Networking, IEEE Trans on Mobile Computing, IEEE Trans on Computers等著名国际期刊上发表论文100余篇，其中CCF A类期刊/会议论文50余篇，IEEE/ACM Trans长文30余篇。获MSN'16, SIGCOMM-China'17最佳论文奖，ACM MobiCom'17最佳视频展示奖。出版著作1部，授权发明专利10余项。
+课题组承担多项国家和省部级项目。在ACM MobiCom, SIGMETRICS, UbiComp, IEEE INFOCOM, ICNP等著名国际会议以及IEEE/ACM Trans. on Networking, IEEE Trans. on Mobile Computing, IEEE Trans. on Computers等著名国际期刊上发表论文100余篇，其中CCF A类期刊/会议论文50余篇，IEEE/ACM Trans长文30余篇。获MSN'16, SIGCOMM-China'17最佳论文奖，ACM MobiCom'17最佳视频展示奖。出版著作1部，授权发明专利10余项。
