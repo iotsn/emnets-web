@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | EmNets Lab</title>
+    <link>http://www.emnets.org/en/publication_types/2/</link>
+      <atom:link href="http://www.emnets.org/en/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>EmNets © 2021</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>2</title>
+      <link>http://www.emnets.org/en/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>The title of the article</title>
+      <link>http://www.emnets.org/en/publication/article-id/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/article-id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate Corruption Estimation in ZigBee Under Cross-Technology Interference</title>
+      <link>http://www.emnets.org/en/publication/tmc-accuest/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/tmc-accuest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Path Reconstruction Algorithms in Multihop Wireless Networks</title>
+      <link>http://www.emnets.org/en/publication/ton-cpath/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/ton-cpath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embracing Corruption Burstiness: Fast Error Recovery for ZigBee under Wi-Fi Interference</title>
+      <link>http://www.emnets.org/en/publication/tmc-zixor/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/tmc-zixor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>http://www.emnets.org/en/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iPath: Path Inference in Wireless Sensor Networks</title>
+      <link>http://www.emnets.org/en/publication/ton-ipath/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/ton-ipath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement and Analysis on the Packet Delivery Performance in A Large-Scale Sensor Network</title>
+      <link>http://www.emnets.org/en/publication/ton-map/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/ton-map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Relocatable Code for Efficient Software Update in Networked Embedded Systems</title>
+      <link>http://www.emnets.org/en/publication/tosn-r-3/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/tosn-r-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SenSpire OS: A Predictable, Flexible, and Efficient Operating System for Wireless Sensor Networks</title>
+      <link>http://www.emnets.org/en/publication/tc-senspire/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/tc-senspire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LimbMotion: Decimeter-level Limb Tracking for Wearable-based Human-Computer Interaction</title>
+      <link>http://www.emnets.org/en/publication/imwut-limbmotion/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/imwut-limbmotion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

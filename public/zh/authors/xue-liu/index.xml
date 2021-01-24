@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xue Liu | EmNets</title>
+    <link>http://www.emnets.org/zh/authors/xue-liu/</link>
+      <atom:link href="http://www.emnets.org/zh/authors/xue-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xue Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>EmNets © 2021</copyright><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Xue Liu</title>
+      <link>http://www.emnets.org/zh/authors/xue-liu/</link>
+    </image>
+    
+    <item>
+      <title>Mosaic: A Low-Cost Mobile Sensing System for Urban Air Quality Monitoring</title>
+      <link>http://www.emnets.org/zh/publication/infocom-16-mosaic/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/infocom-16-mosaic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPath: Path Inference in Wireless Sensor Networks</title>
+      <link>http://www.emnets.org/zh/publication/ton-ipath/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/ton-ipath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SenSpire OS: A Predictable, Flexible, and Efficient Operating System for Wireless Sensor Networks</title>
+      <link>http://www.emnets.org/zh/publication/tc-senspire/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/tc-senspire/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

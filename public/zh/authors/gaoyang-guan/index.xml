@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EmNets</title>
+    <link>http://www.emnets.org/zh/authors/gaoyang-guan/</link>
+      <atom:link href="http://www.emnets.org/zh/authors/gaoyang-guan/index.xml" rel="self" type="application/rss+xml" />
+    <description>EmNets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>EmNets © 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>EmNets</title>
+      <link>http://www.emnets.org/zh/authors/gaoyang-guan/</link>
+    </image>
+    
+    <item>
+      <title>TinyLink 2.0: Integrating Device, Cloud, and Client Development for IoT Applications</title>
+      <link>http://www.emnets.org/zh/publication/mobicom-20-tinylink-2/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/mobicom-20-tinylink-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LinkLab: A Scalable and Heterogeneous Testbed for Remotely Developing and Experimenting IoT Applications</title>
+      <link>http://www.emnets.org/zh/publication/iotdi-20-linklab/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/iotdi-20-linklab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TinyLink: a Holistic System for Rapid Development of IoT Applications</title>
+      <link>http://www.emnets.org/zh/publication/mobicom-17-tinylink/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/mobicom-17-tinylink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Link Correlation in Low-Power Wireless Networks</title>
+      <link>http://www.emnets.org/zh/publication/infocom-15-cormodel/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/infocom-15-cormodel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

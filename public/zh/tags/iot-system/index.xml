@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT system | EmNets</title>
+    <link>http://www.emnets.org/zh/tags/iot-system/</link>
+      <atom:link href="http://www.emnets.org/zh/tags/iot-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoT system</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>EmNets © 2021</copyright><lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>IoT system</title>
+      <link>http://www.emnets.org/zh/tags/iot-system/</link>
+    </image>
+    
+    <item>
+      <title>LinkLab</title>
+      <link>http://www.emnets.org/zh/project/linklab/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/project/linklab/</guid>
+      <description>&lt;h1 id=&#34;简介&#34;&gt;简介&lt;/h1&gt;
+&lt;p&gt;物联网设备异构性加剧，物联网应用开发仍然十分困难。实验室与阿里云IoT事业部联合发起了
+&lt;a href=&#34;http://linklab.tinylink.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkLab物联网远程开发平台&lt;/a&gt;。目前已在人工智能小镇部署了150余种物联网设备，用户只需通过浏览器(WebIDE)即可进行云-边-端一体的物联网应用开发。LinkLab需要解决可靠设备管理、多环境高效在线编译、theia WebIDE高效定制、大规模虚拟场景仿真等关键问题。&lt;/p&gt;
+&lt;h1 id=&#34;新闻&#34;&gt;新闻&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;[2020.02] 实验室LinkLab论文被ACM/IEEE IoTDI 2020录用！&lt;/li&gt;
+&lt;li&gt;[2019.12] 
+&lt;a href=&#34;https://mp.weixin.qq.com/s/C-9ljT8BpRzcs6LerJWO8Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;实验室助力阿里云IoT助理工程师考试认证&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[2019.11] 
+&lt;a href=&#34;http://linklab.tinylink.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkLab v1.1&lt;/a&gt;发布！LinkLab支持TinyLink、AliOS Things在线编程&lt;/li&gt;
+&lt;li&gt;[2019.10] LinkLab v1.0测试版发布！欢迎使用LinkLab.&lt;/li&gt;
+&lt;li&gt;[2019.10] 
+&lt;a href=&#34;https://mp.weixin.qq.com/s/SpU14B9pdX9Ik4w5ZnwSuw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkLab参展中国计算机大会CNCC 2019.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[2019.06] 
+&lt;a href=&#34;http://www.emnets.org/iotbook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;《从创意到原型：物联网应用快速开发》新书出版！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[2019.04] 
+&lt;a href=&#34;https://mp.weixin.qq.com/s/K03k1yoDCdaNt82HVJyGxQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkLab参展2050大会.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;关于linklab&#34;&gt;关于LinkLab&lt;/h1&gt;
+&lt;p&gt;LinkLab是阿里巴巴-浙江大学前沿技术联合研究中心（AZFT）物联网实验室推出的物联网远程开发与实训平台。LinkLab平台为阿里云IoT工程师考试与认证提供关键技术支撑。&lt;/p&gt;
+&lt;h1 id=&#34;linklab使用教程&#34;&gt;LinkLab使用教程&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://home.emnets.org:8888/linklab/tutorial00.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;入门教程：LinkLab用户系统和基本操作&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://edu.aliyun.com/certification/aca04&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;阿里云IoT工程师考试认证&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinyEdge</title>
+      <link>http://www.emnets.org/zh/project/tinyedge/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/project/tinyedge/</guid>
+      <description>&lt;p&gt;港珠澳大桥是我国首座集桥岛隧一体的现代跨海通道工程，为了“用好管好”这座世界级的现代跨海通道工程，迫切需要推动桥岛隧跨海通道工程运维管理技术创新。本课题为国家重点研发计划课题研究内容。
+课题研究复杂环境下低功耗广域网传输模型，提出抗干扰、自适应性强的传输机制；研究边缘计算负载动态迁移技术、以及边缘侧网络资源感知传感协同技术，通过在边缘侧对不同业务进行预处理，提高数据处理效率和实时性，并降低带宽与能量消耗；研究边缘侧多集群管理技术和支持多CPU架构、多运行时环境的轻量级编排技术，提高系统稳定性；研究支持多源异构数据处理的边缘计算系统架构，构建多类型边缘计算系统平台，形成基于边缘计算的海量数据采传收一体化技术方案，为桥岛隧巡检、维养设备以及边缘视频处理提供模型与算力支持，在台风等极端天气时提升响应速度。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinySim</title>
+      <link>http://www.emnets.org/zh/project/tinysim/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/project/tinysim/</guid>
+      <description>&lt;p&gt;Developing and experimenting IoT applications are still difficult and time-consuming, mainly due to their heterogeneous hardware and diverse software. In this work, we develop LinkLab, a scalable IoT testbed for heterogeneous devices. LinkLab not only supports running experiments but also supports remote development via a web-based IDE and remote compiling. By using a distributed architecture, LinkLab is a scalable, multisite, and multi-user IoT testbed, with fine-grained access control and a flexible naming mechanism. Currently, LinkLab is implemented with more than 150 IoT devices. The system has been published in ACM/IEEE IoTDI 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EmNets</title>
+    <link>http://www.emnets.org/zh/authors/admin/</link>
+      <atom:link href="http://www.emnets.org/zh/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>EmNets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>EmNets © 2021</copyright><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>EmNets</title>
+      <link>http://www.emnets.org/zh/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>实验室论文EdgeProg被IEEE ICDCS 2020录用</title>
+      <link>http://www.emnets.org/zh/post/edgeprog/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/post/edgeprog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>实验室论文TinyLink 2.0被[ACM MobiCom 2020](https://sigmobile.org/mobicom/2020)录用</title>
+      <link>http://www.emnets.org/zh/post/tinylink2/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/post/tinylink2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>实验室出版新书《从创意到原型：物联网应用快速开发》</title>
+      <link>http://www.emnets.org/zh/post/iot-book/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/post/iot-book/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

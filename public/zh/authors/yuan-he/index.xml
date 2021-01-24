@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan He | EmNets</title>
+    <link>http://www.emnets.org/zh/authors/yuan-he/</link>
+      <atom:link href="http://www.emnets.org/zh/authors/yuan-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>EmNets © 2021</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yuan He</title>
+      <link>http://www.emnets.org/zh/authors/yuan-he/</link>
+    </image>
+    
+    <item>
+      <title>Measurement and Analysis on the Packet Delivery Performance in A Large-Scale Sensor Network</title>
+      <link>http://www.emnets.org/zh/publication/ton-map/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/ton-map/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

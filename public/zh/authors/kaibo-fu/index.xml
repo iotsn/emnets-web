@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaibo Fu | EmNets</title>
+    <link>http://www.emnets.org/zh/authors/kaibo-fu/</link>
+      <atom:link href="http://www.emnets.org/zh/authors/kaibo-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaibo Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>EmNets © 2021</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kaibo Fu</title>
+      <link>http://www.emnets.org/zh/authors/kaibo-fu/</link>
+    </image>
+    
+    <item>
+      <title>TinyLink: a Holistic System for Rapid Development of IoT Applications</title>
+      <link>http://www.emnets.org/zh/publication/mobicom-17-tinylink/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/mobicom-17-tinylink/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

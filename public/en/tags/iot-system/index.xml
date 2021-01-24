@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT system | EmNets Lab</title>
+    <link>http://www.emnets.org/en/tags/iot-system/</link>
+      <atom:link href="http://www.emnets.org/en/tags/iot-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoT system</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>EmNets © 2021</copyright><lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>IoT system</title>
+      <link>http://www.emnets.org/en/tags/iot-system/</link>
+    </image>
+    
+    <item>
+      <title>LinkLab</title>
+      <link>http://www.emnets.org/en/project/linklab/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/linklab/</guid>
+      <description>&lt;p&gt;Developing and experimenting IoT applications are still difficult and time-consuming, mainly due to their heterogeneous hardware and diverse software. In this work, we develop LinkLab, a scalable IoT testbed for heterogeneous devices. LinkLab not only supports running experiments but also supports remote development via a web-based IDE and remote compiling. By using a distributed architecture, LinkLab is a scalable, multisite, and multi-user IoT testbed, with fine-grained access control and a flexible naming mechanism. Currently, LinkLab is implemented with more than 150 IoT devices. The system has been published in ACM/IEEE IoTDI 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinyEdge</title>
+      <link>http://www.emnets.org/en/project/tinyedge/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/tinyedge/</guid>
+      <description>&lt;p&gt;We are working on a tiny edge computing platform for IoT applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinySim</title>
+      <link>http://www.emnets.org/en/project/tinysim/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/tinysim/</guid>
+      <description>&lt;p&gt;Developing and experimenting IoT applications are still difficult and time-consuming, mainly due to their heterogeneous hardware and diverse software. In this work, we develop LinkLab, a scalable IoT testbed for heterogeneous devices. LinkLab not only supports running experiments but also supports remote development via a web-based IDE and remote compiling. By using a distributed architecture, LinkLab is a scalable, multisite, and multi-user IoT testbed, with fine-grained access control and a flexible naming mechanism. Currently, LinkLab is implemented with more than 150 IoT devices. The system has been published in ACM/IEEE IoTDI 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

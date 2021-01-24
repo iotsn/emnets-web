@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiajun Bu | EmNets</title>
+    <link>http://www.emnets.org/zh/authors/jiajun-bu/</link>
+      <atom:link href="http://www.emnets.org/zh/authors/jiajun-bu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiajun Bu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>EmNets © 2021</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jiajun Bu</title>
+      <link>http://www.emnets.org/zh/authors/jiajun-bu/</link>
+    </image>
+    
+    <item>
+      <title>TinyLink 2.0: Integrating Device, Cloud, and Client Development for IoT Applications</title>
+      <link>http://www.emnets.org/zh/publication/mobicom-20-tinylink-2/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/mobicom-20-tinylink-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embracing Corruption Burstiness: Fast Error Recovery for ZigBee under Wi-Fi Interference</title>
+      <link>http://www.emnets.org/zh/publication/tmc-zixor/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/tmc-zixor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic: A Low-Cost Mobile Sensing System for Urban Air Quality Monitoring</title>
+      <link>http://www.emnets.org/zh/publication/infocom-16-mosaic/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/infocom-16-mosaic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Link Correlation in Low-Power Wireless Networks</title>
+      <link>http://www.emnets.org/zh/publication/infocom-15-cormodel/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/infocom-15-cormodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPath: Path Inference in Wireless Sensor Networks</title>
+      <link>http://www.emnets.org/zh/publication/ton-ipath/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/ton-ipath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Relocatable Code for Efficient Software Update in Networked Embedded Systems</title>
+      <link>http://www.emnets.org/zh/publication/tosn-r-3/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/tosn-r-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SenSpire OS: A Predictable, Flexible, and Efficient Operating System for Wireless Sensor Networks</title>
+      <link>http://www.emnets.org/zh/publication/tc-senspire/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/tc-senspire/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

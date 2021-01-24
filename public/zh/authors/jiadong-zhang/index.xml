@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiadong Zhang | EmNets</title>
+    <link>http://www.emnets.org/zh/authors/jiadong-zhang/</link>
+      <atom:link href="http://www.emnets.org/zh/authors/jiadong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiadong Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>EmNets © 2021</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jiadong Zhang</title>
+      <link>http://www.emnets.org/zh/authors/jiadong-zhang/</link>
+    </image>
+    
+    <item>
+      <title>LinkLab: A Scalable and Heterogeneous Testbed for Remotely Developing and Experimenting IoT Applications</title>
+      <link>http://www.emnets.org/zh/publication/iotdi-20-linklab/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/iotdi-20-linklab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

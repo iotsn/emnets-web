@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | EmNets Lab</title>
+    <link>http://www.emnets.org/en/project/</link>
+      <atom:link href="http://www.emnets.org/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>EmNets © 2021</copyright><lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>http://www.emnets.org/en/project/</link>
+    </image>
+    
+    <item>
+      <title>LinkLab</title>
+      <link>http://www.emnets.org/en/project/linklab/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/linklab/</guid>
+      <description>&lt;p&gt;Developing and experimenting IoT applications are still difficult and time-consuming, mainly due to their heterogeneous hardware and diverse software. In this work, we develop LinkLab, a scalable IoT testbed for heterogeneous devices. LinkLab not only supports running experiments but also supports remote development via a web-based IDE and remote compiling. By using a distributed architecture, LinkLab is a scalable, multisite, and multi-user IoT testbed, with fine-grained access control and a flexible naming mechanism. Currently, LinkLab is implemented with more than 150 IoT devices. The system has been published in ACM/IEEE IoTDI 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinyEdge</title>
+      <link>http://www.emnets.org/en/project/tinyedge/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/tinyedge/</guid>
+      <description>&lt;p&gt;We are working on a tiny edge computing platform for IoT applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinySim</title>
+      <link>http://www.emnets.org/en/project/tinysim/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/tinysim/</guid>
+      <description>&lt;p&gt;Developing and experimenting IoT applications are still difficult and time-consuming, mainly due to their heterogeneous hardware and diverse software. In this work, we develop LinkLab, a scalable IoT testbed for heterogeneous devices. LinkLab not only supports running experiments but also supports remote development via a web-based IDE and remote compiling. By using a distributed architecture, LinkLab is a scalable, multisite, and multi-user IoT testbed, with fine-grained access control and a flexible naming mechanism. Currently, LinkLab is implemented with more than 150 IoT devices. The system has been published in ACM/IEEE IoTDI 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TinyLink</title>
+      <link>http://www.emnets.org/en/project/tinylink/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/tinylink/</guid>
+      <description>&lt;p&gt;TinyLink is a holistic system for rapid development of IoT applications. Developers write the application code in C-like language to specify the key logic of their applications, without dealing with the details of hardware components. Taking the application code as input, TinyLink automatically generates hardware configurations as well as the hardware dependent code executable on the targeted hardware platform. We have further extended our system to integrate cloud, device and client development in one piece of code, greatly accelerating the process for cloud-device integrated applications development. The designs and implementations have been published in ACM MobiCom 2017 and ACM MobiCom 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low-power wireless</title>
+      <link>http://www.emnets.org/en/project/wireless/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/wireless/</guid>
+      <description>&lt;p&gt;Recent years have witnessed many low-power wireless technologies, e.g., ZigBee, Bluetooth, LoRa, etc. These heterogeneous technologies raised several important research issues, such as how to combat against cross-technology interference, how to perform cross-technology communication without a gateway, how to interoperate over a wide range of IoT protocols. In this study, we aim to address several key issues in this field. Initial works have been reported in IEEE ICNP 2018, IEEE ICDCS 2017 and IEEE TMC.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent sensing</title>
+      <link>http://www.emnets.org/en/project/sensing/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/sensing/</guid>
+      <description>&lt;p&gt;Modern IoT and mobile devices are equipped with a rich set of sensors, including accelerometer, gyroscope sensor, IMU sensor, acoustic sensor etc. Even the wireless module, traditionally used for communication, can be used as a sensing module (i.e., wireless sensing). The ubiquitous availabilty of these sensors, as well as the advances in signal processing and machine learning, give us unprecedented opportunities to better sense the physical world and human beings. In this study, we will focus on innovative applications and intelligent sensing techniques based on IMU, WiFi and millimeter-wave. Initial works have been published in UbiComp 2018 and UbiComp 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mosaic</title>
+      <link>http://www.emnets.org/en/project/mosaic/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/mosaic/</guid>
+      <description>&lt;p&gt;Air quality monitoring has attracted a lot of attention from governments, academia and industry, especially for PM2.5 due to its significant impact on our respiratory systems. In this work, we design Mosaic, a low cost urban PM2.5 monitoring system based on mobile sensing. In Mosaic, a small number of air quality monitoring nodes are deployed on city buses to measure air quality. We have deployed the Mosaic system in Hangzhou and Ningbo, China. We conduct research on system design and deployment issues as well as sensor data calibration. These works have been published in IEEE INFOCOM 2016, IEEE INFOCOM 2017, and UbiComp 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GreenOrbs</title>
+      <link>http://www.emnets.org/en/project/greenorbs/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/greenorbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SenSpire OS</title>
+      <link>http://www.emnets.org/en/project/senspire/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/project/senspire/</guid>
+      <description>&lt;p&gt;The development of a modern sensor network is difficult because of the long-term unattended operation mode, diverse application requirements, and stringent resource constraints. To address these issues, we design SenSpire OS, a predictable, flexible, and efficient operating system for sensor networks. We achieve system flexibility by providing a hybrid model for both event-driven programming and multithreaded programming. We have also designed an object-oriented programming language (CSpire) to enhance system usability and programming convenience. SenSpire OS has been implemented on three most commonly used sensor node platforms. The system is reported in IEEE TC 2011.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

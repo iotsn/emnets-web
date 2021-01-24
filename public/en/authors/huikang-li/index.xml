@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EmNets Lab</title>
+    <link>http://www.emnets.org/en/authors/huikang-li/</link>
+      <atom:link href="http://www.emnets.org/en/authors/huikang-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>EmNets Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>EmNets © 2021</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>EmNets Lab</title>
+      <link>http://www.emnets.org/en/authors/huikang-li/</link>
+    </image>
+    
+    <item>
+      <title>Bound-based Network Tomography for Inferring Interesting Link Metrics</title>
+      <link>http://www.emnets.org/en/publication/infocom-20-li/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/en/publication/infocom-20-li/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

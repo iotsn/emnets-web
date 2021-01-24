@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kougen Zheng | EmNets</title>
+    <link>http://www.emnets.org/zh/authors/kougen-zheng/</link>
+      <atom:link href="http://www.emnets.org/zh/authors/kougen-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kougen Zheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>EmNets © 2021</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kougen Zheng</title>
+      <link>http://www.emnets.org/zh/authors/kougen-zheng/</link>
+    </image>
+    
+    <item>
+      <title>SenSpire OS: A Predictable, Flexible, and Efficient Operating System for Wireless Sensor Networks</title>
+      <link>http://www.emnets.org/zh/publication/tc-senspire/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.emnets.org/zh/publication/tc-senspire/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
